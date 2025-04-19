@@ -107,7 +107,7 @@
 								<option value="Django">Django</option>
 								<option value="Flask">Flask</option>
 								<option value="Ruby on Rails">Ruby on Rails</option>
-								<option value="Laravel">Laravel</option>
+ 								<option value="Laravel">Laravel</option>
 								<option value="TensorFlow">TensorFlow</option>
 								<option value="PyTorch">PyTorch</option>
 								<option value="Kubernetes">Kubernetes</option>
